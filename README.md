@@ -1,7 +1,8 @@
 # DCC++
 DCC++ related projects.
 
-What is DCC++
+What is DCC++ ?
+
 DCC++ is an open-source hardware and software system for the operation of DCC-equipped model railroads.
 
 The system consists of two parts, the DCC++ Base Station and the DCC++ Controller.
